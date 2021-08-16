@@ -20,7 +20,7 @@ int main() {
   }
 media = temperaturatotal / 7;
 
-printf("A temperatura média da semana foi: %.1f. Tiveram %d dias com temperatura superior a 27 graus",media,cont);
+printf("A temperatura mÃ©dia da semana foi: %.1f. Tiveram %d dias com temperatura superior a 27 graus",media,cont);
 
 return 0;
 
